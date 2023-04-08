@@ -29,7 +29,7 @@ st.write("""The Amazon Rainforest, one of the world's most important ecosystems,
 the Amazon will be destroyed if we do not take immediate action. This data is alarming and shows that the forest will only keep dying if we do not act now. It is crucial that we take urgent steps to stop
 deforestation and promote reforestation in the region. The Amazon Rainforest is an irreplaceable natural treasure that needs to be protected for the sake of our planet's future.""")
 
-st.header("Deforestation in the Past")
+st.subheader("Deforestation in the Past")
 
 year = st.slider("Years",2004, 2019)
 
